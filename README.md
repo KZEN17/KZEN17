@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Zlatko Nikoloski
 - 👀 I’m interested in Web and Mobile App Development
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ...
 
